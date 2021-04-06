@@ -3,42 +3,10 @@
 	<title>Playlist</title>
 	<trackList>
 		<track>
-			<location>https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8</location>
-			<title>A1台 (720p)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>0</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://210.210.155.35/qwr9ew/s/s33/index.m3u8</location>
-			<title>Celestial Movies (480p)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>1</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
 			<location>http://61.238.6.49:8001/bysid/82</location>
 			<title>J2</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>2</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>rtmp://ivi.bupt.edu.cn:1935/livetv/starsports</location>
-			<title>Star Sports</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>3</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://45.126.83.51/qwr9ew/s/s34/index.m3u8</location>
-			<title>Thrill (480p)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
+				<vlc:id>1</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -46,39 +14,7 @@
 			<location>https://cdn.hkdtmb.com/hls/99/index.m3u8</location>
 			<title>ViuTV</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8</location>
-			<title>亞旅衛視</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>rtmp://58.200.131.2:1935/livetv/startv</location>
-			<title>星空衛視</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>7</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8</location>
-			<title>港台電視31 (720p)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8</location>
-			<title>港台電視32 (480p)</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
+				<vlc:id>2</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -86,7 +22,7 @@
 			<location>http://61.238.6.49:8001/bysid/83</location>
 			<title>無綫新聞資訊台（83）</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
+				<vlc:id>3</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -94,7 +30,7 @@
 			<location>http://61.238.6.49:8001/bysid/85</location>
 			<title>無綫財經資訊台（85）</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>11</vlc:id>
+				<vlc:id>4</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -102,7 +38,7 @@
 			<location>http://61.238.6.49:8000/bysid/1</location>
 			<title>翡翠台（81）</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>12</vlc:id>
+				<vlc:id>5</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
@@ -111,59 +47,10 @@
 			<title>翡翠台（81）</title>
 			<duration>49040</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>13</vlc:id>
+				<vlc:id>6</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
-		<track>
-			<location>http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8</location>
-			<title>耀才財經台</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>14</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8</location>
-			<title>香港衛視</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>15</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8</location>
-			<title>香港開電視</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>16</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8</location>
-			<title>鳳凰衛視中文台</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>17</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>http://117.169.120.138:8080/live/fhzixun/.m3u8</location>
-			<title>鳳凰衛視資訊台HD</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>18</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy</location>
-			<title>鳳凰衛視電影台</title>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>19</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
 		<vlc:item tid="1"/>
@@ -172,18 +59,5 @@
 		<vlc:item tid="4"/>
 		<vlc:item tid="5"/>
 		<vlc:item tid="6"/>
-		<vlc:item tid="7"/>
-		<vlc:item tid="8"/>
-		<vlc:item tid="9"/>
-		<vlc:item tid="10"/>
-		<vlc:item tid="11"/>
-		<vlc:item tid="12"/>
-		<vlc:item tid="13"/>
-		<vlc:item tid="14"/>
-		<vlc:item tid="15"/>
-		<vlc:item tid="16"/>
-		<vlc:item tid="17"/>
-		<vlc:item tid="18"/>
-		<vlc:item tid="19"/>
 	</extension>
 </playlist>
